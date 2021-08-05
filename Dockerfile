@@ -40,5 +40,5 @@ USER wine
 
 # Autorun MetaTrader Terminal.
 ENTRYPOINT [ "wine" ]
-CMD [ "/MetaTrader/terminal64.exe", "/portable" ]
+CMD [ "/MetaTrader/terminal.exe", "/portable" ]
 
